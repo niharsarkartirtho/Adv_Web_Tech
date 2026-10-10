@@ -1,0 +1,4 @@
+node_modules/
+dist/
+course-management-api/node_modules/
+course-management-api/dist/
